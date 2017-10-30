@@ -1,21 +1,9 @@
-# devcircle
+# Facebook Developer Circle - Jakarta 28 Oct 2017
 
-> A Vue.js project
+My quick presentation about [Vue.js](https://vuejs.org) in Facebook Developer Circle event at Jakarta, 28 Oct 2017.
 
-## Build Setup
+To see the presentation, you can visit this https://mul14.github.io/devc-jakarta-oct-2017/
 
-``` bash
-# install dependencies
-npm install
+This event also recorded on Facebook https://web.facebook.com/codepolitan/videos/896588653839612/
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> This presentation build with [Vue.js Webpack template](http://vuejs-templates.github.io/webpack/)
